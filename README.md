@@ -136,7 +136,7 @@ Atualmente estou desenvolvendo minhas habilidades para ingressar na área de seg
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPSantos002&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPSantos002&layout=compact&theme=tokyonight&langs_count=7&custom_title=Tecnologias" 
   />
 
 </p>
