@@ -129,14 +129,13 @@ Atualmente estou desenvolvendo minhas habilidades para ingressar na área de seg
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JPSantos002&show_icons=true&theme=tokyonight&layout=compact&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=JPSantos002&show_icons=true&theme=midnight-purple&layout=compact&include_all_commits=true&locale=pt-br" 
   />
-<br/>
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-       
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPSantos002&layout=normal&theme=midnight-purple&langs_count=7&custom_title=Tecnologias" 
   />
 
 </p>
