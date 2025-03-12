@@ -3,7 +3,7 @@
 **`Cybersec Analyst`**
 
 Me chamo João Pedro Alves Dos Santos, tenho 24 anos.
-Sou bacharel em Ciência da Computação com uma sólida formação técnica e experiência em gestão de projetos e processos. Ao longo de minha trajetória, desenvolvi habilidades em programação, redes e segurança da informação, sempre focado em soluções eficientes e seguras para os desafios técnologógicos.
+Sou bacharel em Ciência da Computação com uma sólida formação técnica e experiência em gestão de projetos e processos. Ao longo de minha trajetória, desenvolvi habilidades em programação, redes e segurança da informação, sempre focado em soluções eficientes e seguras para os desafios técnológicos.
 Atualmente estou desenvolvendo minhas habilidades para ingressar na área de segurança da informação e contribuir com minhas experiências.
 
 ---
